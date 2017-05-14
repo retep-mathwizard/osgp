@@ -1,3 +1,5 @@
+This code was taken from @skilstak and is here for preservation purposes. All of this was done by @skilstak, I take no credit for it.
+
 # Go at SkilStak
 
 This repo contains the Go libraries, commands, and services used
